@@ -15,7 +15,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
-	@Bean
+	/*@Bean
 	public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
 		return args -> {
 
@@ -28,6 +28,6 @@ public class DemoApplication {
 			}
 
 		};
-	}
+	}*/
 
 }
