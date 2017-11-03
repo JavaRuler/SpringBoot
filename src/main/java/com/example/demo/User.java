@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 /**
  * Created by Administrator on 2017/11/2.
  */
-@Component
+//@Component
 //@ConfigurationProperties(prefix = "User")
 public class User {
 
